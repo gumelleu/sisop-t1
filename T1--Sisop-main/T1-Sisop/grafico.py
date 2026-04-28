@@ -15,7 +15,7 @@ N = [2, 4, 8]
 T1 = [0.522, 0.279, 0.229]   # threads sem mutex
 T2 = [6.551, 13.185, 14.728] # threads com pthread_mutex
 P1 = [0.523, 0.283, 0.228]   # processos sem semaforo
-P2 = [1395.57, 1250.52, 22681.46]  # processos com sem_open
+P2 = [1395.57, 1250.52, 1245.08]  # processos com sem_open
 
 # --------------------------------------------------------------------------
 # Grafico 1: Escala linear — T1 e P1 (experimentos sem sincronizacao)
