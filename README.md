@@ -156,7 +156,7 @@ ao número de workers.
 
 ## 5. Gráfico de Escalabilidade
 
-<img width="2384" height="770" alt="image" src="https://github.com/user-attachments/assets/26ffb3dd-8f9a-45e5-b12b-5fbece903f33" />  <img width="2384" height="770" alt="image" src="https://github.com/user-attachments/assets/251cd318-f5fb-406e-8293-46ee62b3883a" /> <img width="2384" height="770" alt="image" src="https://github.com/user-attachments/assets/732842d5-1352-4ab0-80f4-f76e3eb6bce8" />
+<img width="2384" height="770" alt="image" src="https://github.com/user-attachments/assets/52aac6be-b56f-4d4e-ad4b-64e8acac8b3b" />
 
 
 
